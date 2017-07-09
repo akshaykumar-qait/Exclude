@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100" started-at="2017-07-09T03:24:22Z" finished-at="2017-07-09T03:24:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100" started-at="2017-07-09T03:24:22Z" finished-at="2017-07-09T03:24:22Z">
+      <class name="com.includeandexclude.Exclude.Test1">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.includeandexclude.Exclude.Test1@106ebcb]" name="check" duration-ms="10" started-at="2017-07-09T08:54:22Z" finished-at="2017-07-09T08:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.includeandexclude.Exclude.Test1 -->
+      <class name="com.includeandexclude.Exclude.Test4">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.includeandexclude.Exclude.Test4@84f40f]" name="check" duration-ms="30" started-at="2017-07-09T08:54:22Z" finished-at="2017-07-09T08:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.includeandexclude.Exclude.Test4 -->
+      <class name="com.includeandexclude.Exclude.Test5">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.includeandexclude.Exclude.Test5@18e2e41]" name="check" duration-ms="0" started-at="2017-07-09T08:54:22Z" finished-at="2017-07-09T08:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.includeandexclude.Exclude.Test5 -->
+      <class name="com.includeandexclude.Exclude.Test2">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.includeandexclude.Exclude.Test2@12da18f]" name="check" duration-ms="0" started-at="2017-07-09T08:54:22Z" finished-at="2017-07-09T08:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.includeandexclude.Exclude.Test2 -->
+      <class name="com.includeandexclude.Exclude.Test3">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.includeandexclude.Exclude.Test3@b419da]" name="check" duration-ms="0" started-at="2017-07-09T08:54:22Z" finished-at="2017-07-09T08:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.includeandexclude.Exclude.Test3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
